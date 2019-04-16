@@ -1,5 +1,6 @@
 # easymodbus4j
 easymodbus4j
+A high-performance and ease-of-use implementation of the Modbus protocol written in Java netty support for modbus 4 mode client/server.
 <pre>
 easymodbus4j 特点:
 1、Netty NIO high performance高性能.
