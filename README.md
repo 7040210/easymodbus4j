@@ -1,3 +1,4 @@
+![easymodbus4j运行效果图截屏](https://github.com/zengfr/easymodbus4j/blob/master/easymodbus4j-example/src/main/resources/capture.PNG?raw=true)
 # easymodbus4j
 easymodbus4j
 A high-performance and ease-of-use implementation of the Modbus protocol written in Java netty support for modbus 4 mode client/server.
